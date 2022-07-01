@@ -1,0 +1,15 @@
+.error {
+    color: greenyellow;
+    font-size: large;
+    border: 1px dotted limegreen;
+}
+
+.success {
+    color: blue;
+    font-size: medium;
+    border: 1px dotted blue;
+}
+
+a {
+    cursor: pointer;
+}
